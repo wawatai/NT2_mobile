@@ -10,6 +10,15 @@ html {
 
         main {
             padding: 45px 0 48px;
+
+            &.index {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                height: 100%;
+                box-sizing: border-box;
+                padding: 45px 0 50px;
+            }
         }
 
         @import "./header";

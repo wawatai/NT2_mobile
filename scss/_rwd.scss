@@ -1,68 +1,68 @@
 //iPhone6~8 Plus
-@media only screen and (max-width: 414px){
+// @media only screen and (max-width: 414px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 44vh;
-        }
+//         .gameBox {
+//             height: 44vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
+//             li {
 
-                height: 7vh;
-            }
-        }
-    }
-}
+//                 height: 7vh;
+//             }
+//         }
+//     }
+// }
 
 //iPhone6~8
-@media only screen and (max-width: 375px){
+// @media only screen and (max-width: 375px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 41vh;
-        }
+//         .gameBox {
+//             height: 41vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
-                height: 6.5vh;
-            }
-        }
-    }
-}
+//             li {
+//                 height: 6.5vh;
+//             }
+//         }
+//     }
+// }
 
 //Galaxy S5 + Moto G4
-@media only screen and (max-width: 360px){
+// @media only screen and (max-width: 360px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 40vh;
-        }
+//         .gameBox {
+//             height: 40vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
-                height: 6.2vh;
+//             li {
+//                 height: 6.2vh;
 
-                &.fishBtn,
-                &.slotBtn {
+//                 &.fishBtn,
+//                 &.slotBtn {
                     
-                    div {
-                        padding: 0 7px 0 8px;
-                    }
-                }
-            }
-        }
-    }
-}
+//                     div {
+//                         padding: 0 7px 0 8px;
+//                     }
+//                 }
+//             }
+//         }
+//     }
+// }
 
 //iPhone5
 @media only screen and (max-width: 320px){
@@ -73,7 +73,7 @@
         .gameList {
             
             li {
-                height: 5.4vh;
+                // height: 5.4vh;
 
                 div {
                     padding: 0 !important;
@@ -86,9 +86,9 @@
             }
         }
 
-        .gameBox {
-            height: 35vh;
-        }
+        // .gameBox {
+        //     height: 35vh;
+        // }
     }
 
     //首頁轉存提+vip大小調整
@@ -106,58 +106,58 @@
 }
 
 //iPhone10
-@media only screen and (height: 812px){
+// @media only screen and (height: 812px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 51vh;
-        }
+//         .gameBox {
+//             height: 51vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
-                height: 8.2vh;
-            }
-        }
-    }
-}
+//             li {
+//                 height: 8.2vh;
+//             }
+//         }
+//     }
+// }
 
 //Pixel2
-@media only screen and (height: 731px){
+// @media only screen and (height: 731px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 44vh;
-        }
+//         .gameBox {
+//             height: 44vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
-                height: 7vh;
-            }
-        }
-    }
-}
+//             li {
+//                 height: 7vh;
+//             }
+//         }
+//     }
+// }
 
 //Pixel2 XL
-@media only screen and (height: 823px){
+// @media only screen and (height: 823px){
 
-    //版面伸展
-    .homeCenter {
+//     //版面伸展
+//     .homeCenter {
 
-        .gameBox {
-            height: 50vh;
-        }
+//         .gameBox {
+//             height: 50vh;
+//         }
 
-        .gameList {
+//         .gameList {
 
-            li {
-                height: 8vh;
-            }
-        }
-    }
-}
+//             li {
+//                 height: 8vh;
+//             }
+//         }
+//     }
+// }

@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     padding-top: 8px;
+    flex-shrink: 0;
 
     .single-item {
         border-radius: 1.5vw;
